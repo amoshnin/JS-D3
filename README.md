@@ -14,19 +14,27 @@
   <img src="/documents/web-bar.chart.gif" height="250"/>
   <img src="/documents/web-bar.chart.2.gif" height="250"/>
 
-- [Line Diagram](./Web-D3/LineGraph) = xx
+- [**Line Diagram**](./Web-D3/LineGraph) = xx
 
   <img src="/documents/web-line.chart.gif" height="250"/>
 
-- [Radial Diagram](./Web-D3/radialChart) = xx
+- [**Radial Diagram**](./Web-D3/radialChart) = xx
 
   <img src="/documents/web-line.radar.gif" height="250"/>
 
-- [Scatter (voronoi) Diagram](./Web-D3/radialChart) = xx
+- [**Scatter (voronoi) Diagram**](./Web-D3/radialChart) = xx
 
   <img src="/documents/web-line.voronoi.gif" height="250"/>
 
 ### D3.js for Mobile (iOS/Android) (with React Native)
+
+- [**Candle Stocks Diagram**](./React-Native-D3) = xx
+
+  <img src="/documents/mobile-candle.chart.gif" height="250"/>
+
+- [**Futuristic Diagram**](./React-Native-D3) = xx
+
+  <img src="/documents/mobile-futuristic.graph.gif" height="250"/>
 
 <!--te-->
 
