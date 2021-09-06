@@ -30,11 +30,11 @@
 
 - [**Candle Stocks Diagram**](./React-Native-D3) = xx
 
-  <img src="/documents/mobile-candle.chart.gif" height="250"/>
+  <img src="/documents/mobile-candle.chart.gif" width="300" />
 
 - [**Futuristic Diagram**](./React-Native-D3) = xx
 
-  <img src="/documents/mobile-futuristic.graph.gif" height="250"/>
+  <img src="/documents/mobile-futuristic.graph.gif" width="300" />
 
 <!--te-->
 
