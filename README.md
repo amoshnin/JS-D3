@@ -1,7 +1,7 @@
 # Projects that include
 
-- Curated list of my Data Visualizations (D3.js) and interactable animations (react-native-reanimated).
-- Repository includes a huge variety of dynamic and interactive graphs/charts for both Web (React) and Mobile (React Native).
+- Curated list of my Data Visualizations (D3.js) and interactable animations
+- Repository includes a huge variety of dynamic and interactive graphs/charts made using the D3.JS library
 
 ## Projects index (with images)
 
@@ -150,13 +150,13 @@ $ ogr2ogr -f GeoJSON ./path/to/target.json ./path/to/source.shp
 In this example, we are going to run the following commands:
 
 ```sh
-$ cd examples/06-making-a-map/data/
+$ cd examples/5-Maps/data/
 $ ogr2ogr -f GeoJSON ./world-geojson.json ./ne_50m_admin_0_countries.shp
 ```
 
 ### Draw map
 
-I have downloaded a dataset from [The World Bank](https://databank.worldbank.org/data/source/world-development-indicators#) as a CSV file to view the population growth metric - available at `examples/06-making-a-map/data/world_bank_data.csv`
+I have downloaded a dataset from [The World Bank](https://databank.worldbank.org/data/source/world-development-indicators#) as a CSV file to view the population growth metric - available at `examples/5-Maps/data/world_bank_data.csv`
 
 Here is an example of drawing a map using a `geoEqualEarth` projection without any custom fill.
 
