@@ -3,7 +3,7 @@
 - Curated list of my Data Visualizations (D3.js) and interactable animations (react-native-reanimated).
 - Repository includes a huge variety of dynamic and interactive graphs/charts for both Web (React) and Mobile (React Native).
 
-## Projects index
+## Projects index (with images)
 
 <!--ts-->
 
@@ -35,6 +35,20 @@
 - [**Futuristic Diagram**](./React-Native-D3) = xx
 
   <img src="/documents/mobile-futuristic.graph.gif" width="300" />
+
+[**Inverted slider**](./React-Native-D3) = xx
+
+  <img src="/documents/mobile-inter.chart.gif" width="300" />
+
+### Animations for Mobile (iOS/Android) (with React Native)
+
+[**Liquid Swipe**](./React-Native-D3) = xx
+
+  <img src="/documents/mobile-liquid.swipe.gif" width="300" />
+
+[**Inverted slider**](./React-Native-D3) = xx
+
+  <img src="/documents/mobile-inverted.slider.gif" width="300" />
 
 <!--te-->
 
