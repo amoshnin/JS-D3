@@ -36,19 +36,47 @@
 
   <img src="/documents/mobile-futuristic.graph.gif" width="300" />
 
-[**Inverted slider**](./React-Native-D3) = xx
+- [**Cryptocurrency chart**](./React-Native-D3) = xx
 
   <img src="/documents/mobile-inter.chart.gif" width="300" />
 
 ### Animations for Mobile (iOS/Android) (with React Native)
 
-[**Liquid Swipe**](./React-Native-D3) = xx
+- [**Liquid Swipe**](./React-Native-D3) = xx
 
   <img src="/documents/mobile-liquid.swipe.gif" width="300" />
 
-[**Inverted slider**](./React-Native-D3) = xx
+- [**Inverted slider**](./React-Native-D3) = xx
 
   <img src="/documents/mobile-inverted.slider.gif" width="300" />
+
+- [**Masked Selector**](./React-Native-D3) = xx
+
+  <img src="/documents/mobile-masked.selector.gif" width="300" />
+
+- [**Themer**](./React-Native-D3) = xx
+
+  <img src="/documents/mobile-themeer.2.gif" width="300" />
+
+- [**Events carousel**](./React-Native-D3) = xx
+
+  <img src="/documents/mobile-events.carousel.gif" width="300" />
+
+- [**Earphones slider**](./React-Native-D3) = xx
+
+  <img src="/documents/mobile-earphones.slider.gif" width="300" />
+
+- [**Coffe slider**](./React-Native-D3) = xx
+
+  <img src="/documents/mobile-coffe-slider.gif" width="300" />
+
+- [**Drag drop**](./React-Native-D3) = xx
+
+  <img src="/documents/mobile-drag.drop.gif" width="300" />
+
+- [**Monsters carousel**](./React-Native-D3) = xx
+
+  <img src="/documents/mobile-monsters.carousel.gif" width="300" />
 
 <!--te-->
 
@@ -57,4 +85,4 @@
 - **Learn D3.js From Scratch Course**: https://www.dashingd3js.com/
 - **D3.js official documentation**: https://d3js.org/
 - **D3.js Net Ninja Course**: https://www.udemy.com/course/build-data-uis-with-d3-firebase/
-- **Fullstack D3 and Data Visualization**: https://www.newline.co/fullstack-d3
+- **Fullstack D3 and Data Visualization Course**: https://www.newline.co/fullstack-d3
