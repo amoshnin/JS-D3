@@ -284,4 +284,4 @@ The data is dynamically created and animated on a path to visualize complex data
 - **D3.js official documentation**: https://d3js.org/
 - **D3.js Net Ninja Course**: https://www.udemy.com/course/build-data-uis-with-d3-firebase/
 - **Fullstack D3 and Data Visualization Course**: https://www.newline.co/fullstack-d3
-- Some images/information was taken from this [GitHub Repository of Rob Brennan](https://github.com/TheRobBrennan/explore-data-visualization-with-D3) and [FullStack D3 Data Visualization](https://www.newline.co/fullstack-d3)
+- Some images/information was taken from this [GitHub Repository of Rob Brennan](https://github.com/TheRobBrennan/explore-data-visualization-with-D3) and [FullStack D3](https://www.newline.co/fullstack-d3)
