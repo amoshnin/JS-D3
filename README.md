@@ -18,7 +18,7 @@
 
   <img src="/documents/web-line.chart.gif" height="250"/>
 
-- [**Radial Diagram**](./Web-D3/radialChart) = xx
+- [**Radial Diagram**](./Web-D3/RadialChart) = xx
 
   <img src="/documents/web-line.radar.gif" height="250"/>
 
